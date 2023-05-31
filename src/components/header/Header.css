@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  width: 100%;
+  height: 100%;
+}
+
+.dimli{
+     font-size: 36px;
+     color: aqua;
+     margin-left: 50px;
+}
